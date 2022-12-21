@@ -1,0 +1,78 @@
+.fff {
+    line-height: 1.5;
+    margin: 15px 0px 0px;
+    padding: 0px;
+    width: 100%;
+    max-width: 100%;
+    display: inline-block;
+    font-weight: 00;
+    font-size: 20px;
+}
+    .ben{
+    box-sizing: border-box;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    margin-block: 0px;
+    font-size: 0.6875rem;
+    line-height: 1rem;
+    font-weight: 400;
+    color: inherit;
+}
+  
+    .heder{
+      padding: 0px;
+     
+    }
+    .text{
+      line-height: 1.5;
+    font-size: 16px;
+     padding: 0px;
+     
+    }
+    .size21 {
+      width: 142px;
+      height: 142px;
+      position: relative;left:120px;
+    }
+    .sizee {
+      margin-block: 0px;
+      font-size: var(--headline-font-size, 28px);
+      line-height: var(--headline-line-height, 32px);
+      letter-spacing: -0.015em;
+      font-weight: 900;
+      padding: 0px;
+      font-size: var(--headline-font-size, 40px);
+      line-height: var(--headline-line-height, 46px);
+      max-width: 670px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .bacground {
+      background-image: url("https://content-tooling.spotifycdn.com/images/4a4fc24a-69b3-476b-b6d9-e7597cda526e_enhance_icon_(1).svg");
+      background-repeat: no-repeat;
+      width: 142px;
+      height: 142px;
+    }
+    .px-2 {
+      padding-left: spacer * 0.5 !important;
+      padding-right: spacer * 0.5 !important;
+    }
+
+    .gradient {
+      background: linear-gradient(#057335,#01170b);
+    }
+    body {
+      font-family: "Open Sans", sans-serif;
+    }
+
+    .bg-yellow {
+      background-color: #f7c04e !important ;
+    }
+    .PY-6 {
+      padding: 150px 0px;
+    }
+    .bg-soft-black {
+      background-color: #0c0c0de3;
+    }
+    
